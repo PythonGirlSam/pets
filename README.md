@@ -1,1 +1,1 @@
-# msa_poc
+# pets dummy app
